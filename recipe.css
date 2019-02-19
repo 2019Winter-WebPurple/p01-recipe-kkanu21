@@ -1,0 +1,17 @@
+/*
+* Krissy Kanu
+* February 22, 2019
+* CSS for Recipe Web Page */
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: azure;
+
+}
